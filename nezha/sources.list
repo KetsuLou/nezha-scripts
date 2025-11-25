@@ -1,0 +1,7 @@
+# 主仓库
+deb http://archive.debian.org/debian buster main contrib non-free
+deb-src http://archive.debian.org/debian buster main contrib non-free
+
+# 安全更新
+deb http://archive.debian.org/debian-security buster/updates main contrib non-free
+deb-src http://archive.debian.org/debian-security buster/updates main contrib non-free
